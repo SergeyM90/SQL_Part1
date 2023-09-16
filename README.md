@@ -4,7 +4,7 @@
 Получите уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.  
 
 select
-    distinct district
+    distinct district 
 from
     address
 where
